@@ -42,11 +42,11 @@ This is a RESTful API built with Django and Django REST Framework for managing e
    ```
 
 4. **Configure the database settings**:
-   - In `settings.py`, update the `DATABASES` setting with your PostgreSQL credentials.
+   - In `settings.py`, update the `DATABASES` setting with your Database credentials.
    ```python
    DATABASES = {
        'default': {
-           'ENGINE': 'django.db.backends.postgresql',
+           'ENGINE': 'yourdatabaselink',
            'NAME': 'yourdbname',
            'USER': 'yourdbuser',
            'PASSWORD': 'yourdbpassword',
