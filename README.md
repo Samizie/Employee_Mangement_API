@@ -14,12 +14,12 @@ This is a RESTful API built with Django and Django REST Framework for managing e
 
 - **Django**: Web framework for building the backend.
 - **Django REST Framework**: Framework for building REST APIs in Django.
-- **PostgreSQL**: Database used for storing employee and department data.
+- **SQLite**: Database used for storing employee and department data.
 
 ## Prerequisites
 
 - Python 3.x
-- PostgreSQL
+- SQLite
 - Virtualenv (optional but recommended)
 
 ## Installation
