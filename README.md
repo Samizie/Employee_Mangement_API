@@ -162,5 +162,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Customization
 
-- **Update Links**: Replace placeholder links, such as `https://github.com/yourusername/employee-management-api.git` and `https://documenter.getpostman.com/view/24624449/2sAXjJ5Cjv#4f4eed9a-d24b-448b-b061-bd24f209d8f7` with the actual links to your repository and documentation.
+- **Update Links**: Replace placeholder links, such as `https://github.com/Samizie/Employee_Mangement_API.git` and `https://documenter.getpostman.com/view/24624449/2sAXjJ5Cjv#4f4eed9a-d24b-448b-b061-bd24f209d8f7` with the actual links to your repository and documentation.
 
